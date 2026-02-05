@@ -25,7 +25,7 @@ This project uses **Logistic Regression**, a widely used classification algorith
   - Loan Term
   - Credit History
   - Gender, Marital Status, Education, Property Area
-
+Dataset : loan_approval_dataset.csv
 
 
 ---
